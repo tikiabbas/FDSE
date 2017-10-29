@@ -1,6 +1,4 @@
 print("Hello World")
-print("Hello Python")
-C:\Abbas\GreyAtom/Python
-  
+print("Hello Python")  
   Print("Good Night")
 
